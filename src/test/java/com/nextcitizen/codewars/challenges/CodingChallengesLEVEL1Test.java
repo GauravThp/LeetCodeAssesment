@@ -35,7 +35,7 @@ public class CodingChallengesLEVEL1Test {
 	
 	@Test
 	public void test_PrintHelloInFirstLineAndNameInSecond() {
-		assertEquals("Hello\nSaurav", codingChallengesLEVEL1.printHelloInFirstLineAndNameInSecond("Hello", "Saurav"));
+		assertEquals("Hello\nGaurav", codingChallengesLEVEL1.printHelloInFirstLineAndNameInSecond("Hello", "Gaurav"));
 	}
 	
 	

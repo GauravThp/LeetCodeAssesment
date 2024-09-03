@@ -3,9 +3,6 @@ This is a spring boot Application which provides a bunch of library that develop
 
 All the coding problems are from codewars.com
 
-User name: Saurock303
-Badge: https://www.codewars.com/users/saurockSaurav/badges/large
-
 Code Security check provided by:
 
 WhiteSource  Bolt 

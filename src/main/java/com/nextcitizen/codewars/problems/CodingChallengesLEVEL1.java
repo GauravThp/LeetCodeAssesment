@@ -24,7 +24,7 @@ public class CodingChallengesLEVEL1 {
 	/*public static void main(String[] args) {
 		CodingPuzzles obj = new CodingPuzzles();
 		obj.isValidPin("121121");
-		obj.printHelloInFirstLineAndNameInSecond("Hello", "Saurav");
+		obj.printHelloInFirstLineAndNameInSecond("Hello", "Gaurav");
 		obj.printMultiplicationUpto10(8);
 		obj.reverseStringUsingRecursiveMethod("123456");
 		obj.takesUpto4DigitAfterAlphabetic("abcd1234");
